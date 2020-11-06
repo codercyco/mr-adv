@@ -1,4 +1,4 @@
-# MR-Advance
+# MEGARUN-Advance
 ***script for Dialog axiata megarun mobile game...***
 
 personal use only 
