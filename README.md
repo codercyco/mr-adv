@@ -14,6 +14,9 @@ pkg installl git ; cd ; git clone https://github.com/sl-cyco/mr-adv.git ; cd mr-
 
 ## RUN
 
-it's simple..type and enter 
-                           ↲
-* `advmr`
+it's simple..type and enter   `advmr`  ↲
+
+
+
+
+<img src="sample.gif" width="200">
