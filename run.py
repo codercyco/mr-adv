@@ -1,4 +1,4 @@
-# Python code obfuscated by www.development-tools.net 
+# script by cyco 
  
 
 import base64, codecs
